@@ -1,2 +1,2 @@
 # hello-world-java-maven-action
-![](https://github.com/Volminger/hello-world-java-maven-action/.github/workflows/maven.yml/badge.svg)
+![Java CI with Maven](https://github.com/Volminger/hello-world-java-maven-action/workflows/Java%20CI%20with%20Maven/badge.svg)
