@@ -93,9 +93,3 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v2
 
-      - name: Install dependencies
-        uses: actions/setup-java@v1
-        with:
-          java-version: 1.8
-        run: mvn -B package --file my-app/pom.xml
-
