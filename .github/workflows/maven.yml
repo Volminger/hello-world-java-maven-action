@@ -95,6 +95,6 @@ jobs:
       - uses: actions/setup-java@v1
         with:
           java-version: 1.8
-      - run: mvn -B package --file my-app/pom.xml
-      - run: java -jar my-app/target/*.jar
+        run: mvn -B package --file my-app/pom.xml
+        run: java -jar my-app/target/*.jar
 
